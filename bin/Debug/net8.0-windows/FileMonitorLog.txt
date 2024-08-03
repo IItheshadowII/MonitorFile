@@ -1,0 +1,42 @@
+3/8/2024 04:43:46: Inicializando componentes.
+3/8/2024 04:43:46: Conexión a la base de datos abierta para configuración.
+3/8/2024 04:43:46: Tabla Configuration verificada/creada.
+3/8/2024 04:43:46: Tabla MonitoredFolders verificada/creada.
+3/8/2024 04:43:46: Verificación de la base de datos completada.
+3/8/2024 04:43:46: Verificando si hay configuración guardada.
+3/8/2024 04:43:46: Cantidad de configuraciones encontradas: 1
+3/8/2024 04:43:46: Configuración existente encontrada. Iniciando monitoreo en segundo plano.
+3/8/2024 04:43:46: Iniciando monitoreo en segundo plano.
+3/8/2024 04:43:46: Conexión a la base de datos abierta para cargar configuración.
+3/8/2024 04:43:46: Datos cargados: SenderEmail=ezequielbanega@gmail.com, RecipientEmail=ezequielbanega@gmail.com
+3/8/2024 04:43:46: MonitoringInterval encontrado: 0
+3/8/2024 04:43:46: MonitoringInterval establecido: 0
+3/8/2024 04:43:46: Configuración de la interfaz actualizada con los datos cargados.
+3/8/2024 04:43:46: Cargando carpetas monitoreadas desde la base de datos.
+3/8/2024 04:43:46: Ruta cargada: C:\Users\Kratos\Documents\dist
+3/8/2024 04:43:46: Ruta cargada: C:\Users\Kratos\Documents\DuckStation
+3/8/2024 04:43:46: Configuración y carpetas cargadas. Ocultando la interfaz.
+3/8/2024 04:43:46: Iniciando monitoreo.
+3/8/2024 04:43:46: Monitoreo iniciado para carpeta: C:\Users\Kratos\Documents\dist
+3/8/2024 04:43:46: Monitoreo iniciado para carpeta: C:\Users\Kratos\Documents\DuckStation
+3/8/2024 04:43:46: Obteniendo intervalo de monitoreo desde comboBoxInterval: 0
+3/8/2024 04:43:46: Intervalo de monitoreo establecido en: 60 segundos.
+3/8/2024 04:43:46: Monitoreo iniciado.
+3/8/2024 04:43:46: Interfaz oculta. Aplicación en segundo plano.
+3/8/2024 04:43:56: Eliminando carpeta seleccionada.
+3/8/2024 04:43:56: Cerrando todas las conexiones a la base de datos.
+3/8/2024 04:43:56: Eliminando carpeta de la base de datos: C:\Users\Kratos\Documents\DuckStation
+3/8/2024 04:43:56: Carpeta eliminada de la base de datos: C:\Users\Kratos\Documents\DuckStation
+3/8/2024 04:43:56: Carpeta eliminada: C:\Users\Kratos\Documents\DuckStation
+3/8/2024 04:43:58: Añadiendo nueva carpeta para monitorear.
+3/8/2024 04:44:02: Cerrando todas las conexiones a la base de datos.
+3/8/2024 04:44:02: Guardando carpeta monitoreada: C:\Users\Kratos\Documents\DuckStation\inputprofiles
+3/8/2024 04:44:02: Carpeta guardada en la base de datos: C:\Users\Kratos\Documents\DuckStation\inputprofiles
+3/8/2024 04:44:02: Cargando carpetas monitoreadas desde la base de datos.
+3/8/2024 04:44:02: Ruta cargada: C:\Users\Kratos\Documents\dist
+3/8/2024 04:44:02: Ruta cargada: C:\Users\Kratos\Documents\DuckStation\inputprofiles
+3/8/2024 04:44:02: Carpeta añadida: C:\Users\Kratos\Documents\DuckStation\inputprofiles
+3/8/2024 04:44:04: Icono de ojo clicado para mostrar/ocultar contraseña.
+3/8/2024 04:44:05: Icono de ojo clicado para mostrar/ocultar contraseña.
+3/8/2024 04:44:06: Icono de ojo clicado para mostrar/ocultar contraseña.
+3/8/2024 04:44:07: Icono de ojo clicado para mostrar/ocultar contraseña.

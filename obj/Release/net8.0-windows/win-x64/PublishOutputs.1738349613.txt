@@ -1,0 +1,2 @@
+C:\Users\Kratos\source\repos\FileMonitor\FileMonitor\bin\Release\net8.0-windows\win-x64\publish\FileMonitor.pdb
+C:\Users\Kratos\source\repos\FileMonitor\FileMonitor\bin\Release\net8.0-windows\win-x64\publish\FileMonitor.exe

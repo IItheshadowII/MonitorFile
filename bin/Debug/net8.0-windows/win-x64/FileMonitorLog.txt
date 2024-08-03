@@ -1,0 +1,66 @@
+3/8/2024 04:33:16: Inicializando componentes.
+3/8/2024 04:33:16: Conexión a la base de datos abierta para configuración.
+3/8/2024 04:33:16: Tabla Configuration verificada/creada.
+3/8/2024 04:33:16: Tabla MonitoredFolders verificada/creada.
+3/8/2024 04:33:16: Verificación de la base de datos completada.
+3/8/2024 04:33:45: Inicializando componentes.
+3/8/2024 04:33:45: Conexión a la base de datos abierta para configuración.
+3/8/2024 04:33:45: Tabla Configuration verificada/creada.
+3/8/2024 04:33:45: Tabla MonitoredFolders verificada/creada.
+3/8/2024 04:33:45: Verificación de la base de datos completada.
+3/8/2024 04:35:00: Inicializando componentes.
+3/8/2024 04:35:00: Conexión a la base de datos abierta para configuración.
+3/8/2024 04:35:00: Tabla Configuration verificada/creada.
+3/8/2024 04:35:00: Tabla MonitoredFolders verificada/creada.
+3/8/2024 04:35:00: Verificación de la base de datos completada.
+3/8/2024 04:35:33: Inicializando componentes.
+3/8/2024 04:35:33: Conexión a la base de datos abierta para configuración.
+3/8/2024 04:35:33: Tabla Configuration verificada/creada.
+3/8/2024 04:35:33: Tabla MonitoredFolders verificada/creada.
+3/8/2024 04:35:33: Verificación de la base de datos completada.
+3/8/2024 04:36:01: Inicializando componentes.
+3/8/2024 04:36:02: Conexión a la base de datos abierta para configuración.
+3/8/2024 04:36:02: Tabla Configuration verificada/creada.
+3/8/2024 04:36:02: Tabla MonitoredFolders verificada/creada.
+3/8/2024 04:36:02: Verificación de la base de datos completada.
+3/8/2024 04:36:02: Verificando si hay configuración guardada.
+3/8/2024 04:36:02: Cantidad de configuraciones encontradas: 0
+3/8/2024 04:43:09: Inicializando componentes.
+3/8/2024 04:43:09: Conexión a la base de datos abierta para configuración.
+3/8/2024 04:43:09: Tabla Configuration verificada/creada.
+3/8/2024 04:43:09: Tabla MonitoredFolders verificada/creada.
+3/8/2024 04:43:09: Verificación de la base de datos completada.
+3/8/2024 04:43:09: Verificando si hay configuración guardada.
+3/8/2024 04:43:09: Cantidad de configuraciones encontradas: 0
+3/8/2024 13:11:52: Inicializando componentes.
+3/8/2024 13:11:52: Conexión a la base de datos abierta para configuración.
+3/8/2024 13:11:52: Tabla Configuration verificada/creada.
+3/8/2024 13:11:52: Tabla MonitoredFolders verificada/creada.
+3/8/2024 13:11:52: Verificación de la base de datos completada.
+3/8/2024 13:11:52: Verificando si hay configuración guardada.
+3/8/2024 13:11:52: Cantidad de configuraciones encontradas: 0
+3/8/2024 13:12:41: Inicializando componentes.
+3/8/2024 13:12:41: Conexión a la base de datos abierta para configuración.
+3/8/2024 13:12:41: Tabla Configuration verificada/creada.
+3/8/2024 13:12:41: Tabla MonitoredFolders verificada/creada.
+3/8/2024 13:12:41: Verificación de la base de datos completada.
+3/8/2024 13:12:41: Verificando si hay configuración guardada.
+3/8/2024 13:12:41: Cantidad de configuraciones encontradas: 0
+3/8/2024 13:19:05: Inicializando componentes.
+3/8/2024 13:19:06: Conexión a la base de datos abierta para configuración.
+3/8/2024 13:19:06: Tabla Configuration verificada/creada.
+3/8/2024 13:19:06: Tabla MonitoredFolders verificada/creada.
+3/8/2024 13:19:06: Verificación de la base de datos completada.
+3/8/2024 13:19:06: Verificando si hay configuración guardada.
+3/8/2024 13:19:06: Cantidad de configuraciones encontradas: 0
+3/8/2024 13:26:45: Inicializando componentes.
+3/8/2024 13:26:45: Conexión a la base de datos abierta para configuración.
+3/8/2024 13:26:45: Tabla Configuration verificada/creada.
+3/8/2024 13:26:45: Tabla MonitoredFolders verificada/creada.
+3/8/2024 13:26:45: Verificación de la base de datos completada.
+3/8/2024 13:26:45: Verificando si hay configuración guardada.
+3/8/2024 13:26:45: Cantidad de configuraciones encontradas: 0
+3/8/2024 13:26:46: Icono de ojo clicado para mostrar/ocultar contraseña.
+3/8/2024 13:26:46: Icono de ojo clicado para mostrar/ocultar contraseña.
+3/8/2024 13:26:47: Icono de ojo clicado para mostrar/ocultar contraseña.
+3/8/2024 13:26:47: Icono de ojo clicado para mostrar/ocultar contraseña.
